@@ -1,0 +1,23 @@
+CHIHH_2022-06-01_2022-07-02
+
+
+HHZ
+Disponibilidad (% dia): min = 99.9, max = 100.0, prom = 100.0
+Offset (cuentas): max (dia) = 1545.98, min (dia) = 1334.61, promedio (dia) = 1406.93
+Numero Overlaps: max (dia) = 3, promedio (dia) = 0.28
+Numero Gaps: max (dia) = 1, promedio (dia) = 0.06
+Numero Picos: max (dia) = 5, promedio (dia) = 1.31
+
+HHN
+Disponibilidad (% dia): min = 99.9, max = 100.0, prom = 100.0
+Offset (cuentas): max (dia) = 454.14, min (dia) = -301.63, promedio (dia) = 183.69
+Numero Overlaps: max (dia) = 3, promedio (dia) = 0.28
+Numero Gaps: max (dia) = 1, promedio (dia) = 0.06
+Numero Picos: max (dia) = 10, promedio (dia) = 4.25
+
+HHE
+Disponibilidad (% dia): min = 99.9, max = 100.0, prom = 100.0
+Offset (cuentas): max (dia) = 556.27, min (dia) = 176.9, promedio (dia) = 454.21
+Numero Overlaps: max (dia) = 3, promedio (dia) = 0.28
+Numero Gaps: max (dia) = 1, promedio (dia) = 0.06
+Numero Picos: max (dia) = 14, promedio (dia) = 5.16

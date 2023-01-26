@@ -1,0 +1,23 @@
+LCBCHH_2022-01-15_2022-03-02
+
+
+HHZ
+Disponibilidad (% dia): min = 43.3, max = 100, prom = 70.9
+Offset (cuentas): max (dia) = 1275058.71, min (dia) = 2886.29, promedio (dia) = 138721.24
+Numero Overlaps: max (dia) = 2, promedio (dia) = 0.13
+Numero Gaps: max (dia) = 3, promedio (dia) = 1.13
+Numero Picos: max (dia) = 3, promedio (dia) = 0.21
+
+HHN
+Disponibilidad (% dia): min = 43.3, max = 100, prom = 70.9
+Offset (cuentas): max (dia) = 1519657.31, min (dia) = 1139.96, promedio (dia) = 163110.35
+Numero Overlaps: max (dia) = 2, promedio (dia) = 0.13
+Numero Gaps: max (dia) = 3, promedio (dia) = 1.13
+Numero Picos: max (dia) = 10, promedio (dia) = 1.09
+
+HHE
+Disponibilidad (% dia): min = 43.3, max = 100, prom = 70.9
+Offset (cuentas): max (dia) = 875517.72, min (dia) = -447.9, promedio (dia) = 93041.37
+Numero Overlaps: max (dia) = 2, promedio (dia) = 0.13
+Numero Gaps: max (dia) = 3, promedio (dia) = 1.13
+Numero Picos: max (dia) = 9, promedio (dia) = 0.98

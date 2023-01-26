@@ -1,0 +1,6 @@
+Canal,Z,N,E
+Disponibilidad (% dia),min = 99.9/max = 100.0/prom = 100.0,min = 99.9/max = 100.0/prom = 100.0,min = 99.9/max = 100.0/prom = 100.0
+Numero Gaps (dia),max = 1/prom = 0.06,max = 1/prom = 0.06,max = 1/prom = 0.06
+Numero Overlaps (dia),max = 3/prom = 0.28,max = 3/prom = 0.28,max = 3/prom = 0.28
+Offset (Cuentas dia),max = 1545.98/min = 1334.61/prom = 1406.93,max = 454.14/min = -301.63/prom = 183.69,max = 556.27/min = 176.9/prom = 454.21
+Numero Picos (dia),max = 5/prom = 1.31,max = 10/prom = 4.25,max = 14/prom = 5.16

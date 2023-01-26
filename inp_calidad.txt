@@ -1,0 +1,10 @@
+# Parametros de entrada
+
+#.............tiempo inicial y final (yyyy-mm-dd)
+time_i=2022-06-01
+time_f=2022-07-02
+#------------Estacion y canal
+Estacion=CHI
+Canal=HH
+#------------Eleccion de servidor (sc232 o sc13)
+Servidor=sc232
